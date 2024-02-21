@@ -9,7 +9,7 @@ This tool is designed to automate the process of logging into a Gmail account an
 
 - Automates login to Gmail.
 - Extracts information from the specified web page.
-- Saves the extracted email addresses to a specified output file.
+- Saves the extracted information addresses to a specified output file.
 - Utilizes Selenium and BeautifulSoup for web scraping and interaction.
 
 ## Requirements
